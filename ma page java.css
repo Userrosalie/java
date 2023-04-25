@@ -1,0 +1,29 @@
+
+body {
+    background-color: #dd7a7a;
+    color: #EEE;
+    font-family: 'Roboto Slab', serif;
+  }
+  
+  .series-frame {
+    max-width: 600px;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    border: 2px solid #EEE;
+  margin: 30px;
+  padding: 10px;
+}
+
+.series-frame h2 {
+  margin-right: 20px;
+}
+ button {background-color:rgb(148, 64, 64);
+      text-indent: black;
+      align-items:center
+      box-sizing: border-box;
+      border: 2px solid #EEE;
+      margin: 30px;
+      padding: 20px
+
+ }
